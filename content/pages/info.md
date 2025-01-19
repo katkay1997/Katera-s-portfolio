@@ -137,7 +137,7 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: React
+        label: Microsoft Suite
       - type: Label
         label: Microsoft Office
       - type: Label
@@ -145,7 +145,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Python
       - type: Label
         label: C++
       - type: Label
