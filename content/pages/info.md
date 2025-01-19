@@ -14,13 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ## Hey, I'm Katera M. I'm been born and raised in Brooklyn, New York. I've been an artist for 18 years. I'm currently a Computer Science major at a CUNY college in New York City. 
+      
+      As a programmer, I am very familiar with Python, C++, and Javascript. I am also a student researcher for a National Science Foundation funded research program.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/About-katera.jpg
       altText: Hero image
     styles:
       self:
