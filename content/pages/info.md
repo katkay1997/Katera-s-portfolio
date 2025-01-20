@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey, I'm Katera M. I'm been born and raised in Brooklyn, New York. I've been an artist for 18 years. I'm currently a Computer Science major at a CUNY college in New York City. 
+      ## Hey, I'm Katera M. I'm been born and raised in Brooklyn, New York. I am artist for 18 years. I'm currently a Computer Science major at a CUNY college in New York City. 
       
       ##As a programmer, I am very familiar with Python, C++, and Javascript. I am also a student researcher for a National Science Foundation funded research program.
     media:
