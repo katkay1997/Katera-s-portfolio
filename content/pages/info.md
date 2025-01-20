@@ -181,25 +181,19 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |-
-          **Current**
+          
+          **2024**
 
-          * freelance @freelance.me
+          * Student Researcher, QED Discrete Mathematics Research Program
 
-          **2018-2021**
+          **2022 - Present**
 
-          * fullstack at this startup
+          * Substitute Teacher, NYC Department of Education
 
-          **2015**
+          **Summer of 2024**
 
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+          * ESL Coordinator, Manhattan College
+        
         styles:
           self:
             textAlign: left
@@ -211,7 +205,7 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2023- Present**
+          **2023-Present**
 
           * Bachelor's of Science, Computer Science at York College
 
