@@ -3,14 +3,15 @@ type: ProjectLayout
 title: Transit Update Tracker
 colors: colors-a
 description: >-
-  A Python-based transit tracker that utilizes MTA's real-time feeds API to fetch and display live train data. The project enables users to monitor train arrivals, delays, and service updates, providing an efficient way to navigate the MTA system in real time. Here is my github link to my project: https://github.com/katkay1997/NYC-TransitAPI
+  A Python-based transit tracker that utilizes MTA's real-time feeds API to fetch and display live train data. The project enables users to monitor train arrivals, delays, and service updates, providing an efficient way to navigate the MTA system in real time. Here is the project link [GitHub](https://github.com/katkay1997/NYC-TransitAPI)
+
 featuredImage:
   type: ImageBlock
-  url: /images/mta.png
+  url: /images/nyc-banner.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/mta.png
+  url: /images/nyc-banner.png
   altText: Project image
 ---
 
