@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Happy New Year!
 colors: colors-a
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  A vibrant illustration of Remi Wolf, full of lively colors and energy, with a celebratory banner that reads "Happy New Year 2025," capturing the joy and excitement of the new year.
 featuredImage:
   type: ImageBlock
   url: /images/New-Year.png
