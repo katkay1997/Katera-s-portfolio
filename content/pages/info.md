@@ -135,21 +135,15 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
         label: Microsoft Suite
       - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
+        label: Git
       - type: Label
         label: Netlify
       - type: Label
         label: Python
       - type: Label
         label: C++
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
@@ -167,7 +161,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [kateradmckay@gmail.com](mailto:kateradmckay@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -217,17 +211,20 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2015-2018**
+          **2023- Present**
 
-          * ba computer sciense at a semi fancy school
+          * Bachelor's of Science, Computer Science at York College
 
-          **2014**
+          **2024**
 
-          * react certificate somewhere
+          * Introduction to Python Certificate, CUNY Upskill
 
-          **2011**
+           **2022**
 
-          * my highschool
+          * JavaScript Web Development Certificate, Lehman College
+
+
+
         styles:
           self:
             textAlign: left
