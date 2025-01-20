@@ -163,7 +163,6 @@ sections:
 
           * ESL Coordinator, Manhattan College
 
-        
         styles:
           self:
             textAlign: left
