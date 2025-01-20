@@ -14,10 +14,6 @@ media:
   altText: Project image
 ---
 
-Certainly! Here’s a more detailed two-paragraph description for your project:
-
----
-
 This project is a Python-based transit tracker that integrates with the MTA’s real-time API to provide live updates on train arrivals, delays, and service status. The tracker fetches data directly from the MTA's real-time feeds, displaying key information such as train locations, estimated arrival times, and any service disruptions.
 
  The core feature of the tracker is its ability to provide up-to-the-minute information, which helps users plan their commutes more efficiently. As part of the project, I also implemented filters for specific subway lines and stations, allowing users to focus on the information most relevant to their travels. To enhance the experience, I used error handling and data validation to ensure the tracker provides accurate, reliable information even during API downtime or errors.
