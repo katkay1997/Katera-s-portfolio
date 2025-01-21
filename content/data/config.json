@@ -27,10 +27,10 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "LinkedIn",
-                "label": "LinkedIn",
+                "altText": "Linkedin",
+                "label": "Linkedin",
                 "url": "https://www.linkedin.com/in/katera-mckay-864b40210/",
-                "icon": "linkedIn"
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
@@ -77,11 +77,9 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "kateradmckay@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Brooklyn, NY",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
