@@ -10,7 +10,6 @@
         "primaryLinks": [
         { "type": "Link", "label": "Info", "url": "/info" },
         { "type": "Link", "label": "Projects", "url": "/projects" },
-        { "type": "Link", "label": "Blog", "url": "/blog" },
         { "type": "Link", "label": "🍽️ Swipe & Bite", "url": "https://cookyourmatch.lovable.app/", "target": "_blank" },
         { "type": "Link", "label": "🚇 MTA Tracker", "url": "https://mta-real-time.lovable.app/", "target": "_blank" },
         { "type": "Link", "label": "🎨 Art Portfolio", "url": "https://katcanvas.lovable.app/", "target": "_blank" }
