@@ -370,4 +370,10 @@
     .colors-f {
         @apply bg-transparent;
     }
+    .sb-section-hero .sb-component-image-block {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 }
