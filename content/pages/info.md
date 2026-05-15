@@ -7,9 +7,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey, I'm Katera M. I'm born and raised in Brooklyn, New York. I am artist for 18 years. I'm currently a Computer Science major at a CUNY college in New York City. 
+      ## I'm Katera. I recently graduated from CUNY York College with a CS degree and is looking for work in the Edtech industry.
 
-      ##As a programmer, I am very familiar with Python, C++, and Javascript. I am also a student researcher for a National Science Foundation funded research program.
+      ## I use AI tools daily. I integrate APIs with creative ideas and tools that make life a easier. I am a hobbyist and I draw art when my schedule is free.
     media:
       type: ImageBlock
       url: /images/About-katera.jpg
