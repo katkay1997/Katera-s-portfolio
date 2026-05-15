@@ -2,20 +2,13 @@
 type: PageLayout
 title: About
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
     text: >-
       ## Hey, I'm Katera M. I'm born and raised in Brooklyn, New York. I am artist for 18 years. I'm currently a Computer Science major at a CUNY college in New York City. 
-      
+
       ##As a programmer, I am very familiar with Python, C++, and Javascript. I am also a student researcher for a National Science Foundation funded research program.
     media:
       type: ImageBlock
@@ -44,7 +37,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: HeroSection      
+    type: HeroSection
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -64,7 +57,7 @@ sections:
         styles:
           self:
             textAlign: left
-        
+
     columns: 3
     spacingX: 120
     spacingY: 0
@@ -143,14 +136,14 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-        
+
   - type: FeaturedItemsSection
     colors: colors-f
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |-
-          
+
           **2024**
 
           * Student Researcher, QED Discrete Mathematics Research Program
@@ -185,8 +178,6 @@ sections:
            **2022**
 
           * JavaScript Web Development Certificate, Lehman College
-
-
 
         styles:
           self:
