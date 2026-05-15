@@ -131,7 +131,7 @@ function PostsVariantD(props) {
                 'mt-12': hasTopMargin
             })}
         >
-            {posts.map((post, index) => (
+            {posts.filter(Boolean).map((post, index) => (
                 <Link key={index} href={post} className="sb-post-feed-item block group">
                     <article className="border-b border-current pb-10 md:pb-12 md:px-4">
                         <div className="md:flex md:items-center">
