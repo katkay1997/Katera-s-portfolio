@@ -263,7 +263,7 @@
 
     /* Color palettes */
     .colors-a {
-        @apply bg-dark text-on-dark;
+        @apply text-on-dark;
         .sb-input,
         .sb-select,
         .sb-textarea {

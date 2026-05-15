@@ -9,6 +9,7 @@ import { BackgroundImage } from '@/components/atoms';
 import { Annotated } from '@/components/Annotated';
 import { PageComponentProps } from '@/types';
 import { PageModelType } from '@/types/generated';
+import SpaceBackground from '@/components/SpaceBackground';
 
 type BaseLayoutProps = React.PropsWithChildren & PageComponentProps & PageModelType;
 
@@ -21,9 +22,10 @@ const BaseLayout: React.FC<BaseLayoutProps> = (props) => {
     const metaDescription = seoGenerateMetaDescription(page, site);
     return (
         <Annotated content={page}>
-            <div className={classNames('sb-page', page?.colors || 'colors-a')}>
-                {page?.backgroundImage && <BackgroundImage {...page?.backgroundImage} />}
-                <div className="sb-base sb-default-base-layout relative">
+            <div className={classNames('sb-page', page?.colors || 'colors-a')} style={{ position: 'relative' }}>
+    <SpaceBackground />
+    {page?.backgroundImage && <BackgroundImage {...page?.backgroundImage} />}
+    <div className="sb-base sb-default-base-layout relative" style={{ position: 'relative', zIndex: 1 }}>
                     <Head>
                         <title>{title}</title>
                         {metaDescription && <meta name="description" content={metaDescription} />}
