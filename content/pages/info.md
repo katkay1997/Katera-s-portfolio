@@ -7,13 +7,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## I'm Katera. I recently graduated from CUNY York College with a CS degree and is looking for work in the Edtech industry.
+      I'm Katera. I recently graduated from CUNY York College with a CS degree and looking for work in the Edtech industry.
 
-      ## I use AI tools daily. I integrate APIs with creative ideas and tools that make life a easier. I am a hobbyist and I draw art when my schedule is free.
+       I use AI tools daily. I integrate APIs with creative ideas and tools that make life a easier. I am a hobbyist and I draw art when my schedule is free.
     media:
       type: ImageBlock
       url: /images/About-katera.jpg
       altText: Hero image
+
     styles:
       self:
         height: auto
@@ -29,6 +30,8 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        flexDirection: col-reverse
+
       title:
         textAlign: left
       subtitle:
